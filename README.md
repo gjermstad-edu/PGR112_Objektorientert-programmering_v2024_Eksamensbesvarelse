@@ -20,3 +20,7 @@ med tilgang til databasen):
 - password=XXXXX
 
 På skolen brukte vi MySQL for oppsett av localhost-databasen som backend for programmet.
+
+-----
+
+Foreleser i faget var [Marcus Alexander Dahl](https://www.linkedin.com/in/marcus-alexander-dahl/).
